@@ -3,11 +3,15 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Full Stack Web Developer passionate about building exceptional digital experiences. With expertise in both front-end and back-end technologies, I strive to create seamless, scalable, and performant applications. 
+As an educator and practitioner in full-stack web development, I specialize in teaching and creating projects with MongoDB, React, Node, and Express. My journey has also embraced the realms of Python and C/C++, where I've developed a robust foundation. With a passion for both sharing knowledge and hands-on development, I've dedicated myself to empowering aspiring developers through comprehensive instruction and mentorship.
 
-- 🔭 I’m currently working on `Banking Management System`
-- 🌱 I’m currently learning `React`,` Python`
-- 💬 Ask me about `Web Development and Games`
+Beyond the classroom, my engagement with web development extends to the construction of dynamic, scalable, and efficient web applications. These projects not only serve as practical examples for my students but also as a testament to my commitment to excellence in software development.
+
+I'm currently on the lookout for opportunities to transition into a full-time web developer role, where I can bring my unique blend of teaching experience and technical expertise to deliver exceptional digital experiences.
+
+- 🔭 I’m currently working on web development projects that leverage my full-stack skills to solve real-world problems.
+- 🌱 I’m continuously improving my skills in MongoDB, React, Node, and Express, while also exploring new technologies in the web development ecosystem.
+- 👯 I’m looking to collaborate on projects that are at the intersection of education and web development.
 - 📫 How to reach me: `harshdevarya09@gmail.com`
 - ⚡ Fun fact: `I am Happy`
 
