@@ -6,7 +6,7 @@
 I'm a Full Stack Web Developer passionate about building exceptional digital experiences. With expertise in both front-end and back-end technologies, I strive to create seamless, scalable, and performant applications. 
 
 - 🔭 I’m currently working on `Banking Management System`
-- 🌱 I’m currently learning `React`
+- 🌱 I’m currently learning `React`,` Python`
 - 💬 Ask me about `Web Development and Games`
 - 📫 How to reach me: `harshdevarya09@gmail.com`
 - ⚡ Fun fact: `I am Happy`
