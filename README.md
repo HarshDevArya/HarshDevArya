@@ -61,7 +61,7 @@ This LMS project represents a step forward in digital education, offering a scal
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Harsh Dev](www.linkedin.com/in/harsh-dev-v)
+- LinkedIn: [Harsh Dev](https://www.linkedin.com/in/harsh-dev-v)
 - Twitter: [@Harsh_DevArya](https://twitter.com/Harsh_DevArya)
 <!--
 - Email: <Your Email>
