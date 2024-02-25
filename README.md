@@ -58,6 +58,7 @@ This LMS project represents a step forward in digital education, offering a scal
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical" />
   </a>
 </p>
+<p align = "right">
 <p align="right">
 <a href="https://github.com/HarshDevArya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevArya&layout=compact&theme=radical" />
