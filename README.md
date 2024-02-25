@@ -54,7 +54,18 @@ This LMS project represents a step forward in digital education, offering a scal
 
 ## 📈 GitHub Stats
 
-![<HarshDevArya>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical)
+
+
+<p align="center">
+  <a href="https://github.com/HarshDevArya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/HarshDevArya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevArya&layout=compact&theme=radical" />
+  </a>
+</p>
+
 
 ## 📫 How to Reach Me
 
