@@ -53,11 +53,7 @@ This LMS project represents a step forward in digital education, offering a scal
 <Add or remove projects as needed>
 
 ## 📈 GitHub Stats
-
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical)
-
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/HarshDevArya">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical" />
   </a>
