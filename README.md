@@ -57,12 +57,12 @@ This LMS project represents a step forward in digital education, offering a scal
 
 ## 📈 GitHub Stats
 
-![<HarshDevArya>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<HarshDevArya>&show_icons=true&theme=radical)
+![<HarshDevArya>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
 - LinkedIn: [Harsh Dev](www.linkedin.com/in/harsh-dev-v)
-- Twitter: [@Harsh_DevArya](<https://twitter.com/Harsh_DevArya>)
+- Twitter: [@Harsh_DevArya](https://twitter.com/Harsh_DevArya)
 <!--
 - Email: <Your Email>
 -->
