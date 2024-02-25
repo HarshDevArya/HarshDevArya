@@ -57,12 +57,12 @@ This LMS project represents a step forward in digital education, offering a scal
   <a href="https://github.com/HarshDevArya">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshDevArya&show_icons=true&theme=radical" />
   </a>
-  <img src="https://via.placeholder.com/15/000000/000000?Text=+" alt="spacer" style="max-width:100%;">
-  <a href="https://github.com/HarshDevArya">
+</p>
+<p align="right">
+<a href="https://github.com/HarshDevArya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevArya&layout=compact&theme=radical" />
   </a>
 </p>
-
 
 ## 📫 How to Reach Me
 
