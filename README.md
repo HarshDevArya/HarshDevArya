@@ -1,4 +1,5 @@
-# Hello, I'm Harsh Dev! 👋
+# Hello, I'm Harsh Dev! 👋                  <img align="center" src="https://komarev.com/ghpvc/?username=HarshDevArya&color=green" alt="HarshDevArya" />
+
 
 ## 🙋‍♂️ About Me
 
@@ -59,7 +60,7 @@ This LMS project represents a step forward in digital education, offering a scal
   </a>
 </p>
 <p align = "right">
-<p align="right">
+<p align="left">
 <a href="https://github.com/HarshDevArya">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDevArya&layout=compact&theme=radical" />
   </a>
