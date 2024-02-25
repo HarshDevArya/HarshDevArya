@@ -1,17 +1,14 @@
-# Hello, I'm <Your Name>! 👋
+# Hello, I'm Harsh Dev! 👋
 
 ## 🙋‍♂️ About Me
 
 I'm a Full Stack Web Developer passionate about building exceptional digital experiences. With expertise in both front-end and back-end technologies, I strive to create seamless, scalable, and performant applications. 
 
-- 🔭 I’m currently working on `<Your Project Name>`
+- 🔭 I’m currently working on `Banking Management System`
 - 🌱 I’m currently learning `React`
-- 👯 I’m looking to collaborate on `<Type of Projects>`
-- 🤔 I’m looking for help with `<Topic or Project>`
-- 💬 Ask me about `<Topics or Technologies>`
-- 📫 How to reach me: `<Your Email>`
-- 😄 Pronouns: `<He/She/They>`
-- ⚡ Fun fact: `<Interesting Fact About You>`
+- 💬 Ask me about `Web Development and Games`
+- 📫 How to reach me: `harshdevarya09@gmail.com`
+- ⚡ Fun fact: `I am Happy`
 
 ## 💻 Technologies & Tools
 
