@@ -12,7 +12,7 @@ Open to exploring full-time web developer roles, I aim to leverage my unique ble
 - 🌱 I’m continuously improving my skills in MongoDB, React, Node, and Express, while also exploring new technologies in the web development ecosystem.
 - 👯 I’m looking to collaborate on projects that are at the intersection of education and web development.
 - 📫 How to reach me: `harshdevarya09@gmail.com`
-- ⚡ Fun fact: `I am Happy`
+- ⚡ Fun fact: `I am Happy.`
 
 ## 💻 Technologies & Tools
 
@@ -28,7 +28,8 @@ Open to exploring full-time web developer roles, I aim to leverage my unique ble
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=00C4CC)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
+
 
 ## Projects
 
