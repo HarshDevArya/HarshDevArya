@@ -28,6 +28,7 @@ Open to exploring full-time web developer roles, I aim to leverage my unique ble
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
 ![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=canva&logoColor=white&color=00C4CC)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
 
 ## Projects
 
