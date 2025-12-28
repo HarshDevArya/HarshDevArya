@@ -41,14 +41,84 @@ Technologies Used:
 - **Backend:** Built with Node.js and Express.js, ensuring robust server-side logic, efficient API management, and seamless database interactions.
 - **Database:** Employs MongoDB for its scalable storage solutions, accommodating our growing organizational data needs.
 - **Design and Prototyping:** Designed with Figma, ensuring a user-friendly interface that meets our corporate branding and usability standards.
-<!--
-- **Deployment:** Deployed on <Deployment Platform>, making it accessible to users worldwide.
 
-This LMS project represents a step forward in digital education, offering a scalable and flexible solution that meets the needs of modern learners and educators. Check out the project here: [View Project](<Project URL>)
--->
+---
 
+### 🐔 Mommy’s Chicken – Consumer Ordering Platform  
+**Full-stack, location-aware food ordering system used by real customers**
 
-<Add or remove projects as needed>
+**Overview**  
+Built a production-grade food-tech platform supporting multi-city operations, hub-based delivery, and real-time POS integration. The system ensures users only see products that can actually be delivered to their location.
+
+**Key Contributions**
+- Implemented location-based serviceability using Maps and distance APIs to assign the nearest delivery hub.
+- Built hub-level product visibility to prevent orders from inactive or out-of-range locations.
+- Integrated PetPooja POS for real-time synchronization between online orders and store operations.
+- Designed intelligent order routing mapped to the correct city and PetPooja outlet.
+- Implemented delivery slot validation, coupon logic, and checkout safeguards.
+- Optimized frontend performance and UX for mobile-first, high-traffic usage.
+
+**Tech Stack:** Next.js, React, Node.js, Express, MongoDB, Google Maps API, PetPooja POS, Payment Gateway
+
+---
+
+### ⚙️ Mommy’s Chicken Admin System – Operations & Control Platform  
+**Internal system powering daily operations and integrations**
+
+**Overview**  
+Built a secure admin platform that acts as the operational backbone of Mommy’s Chicken, managing hubs, inventory, orders, and third-party integrations.
+
+**Key Contributions**
+- Developed hub management with delivery radius, service zones, and active/inactive controls.
+- Mapped hubs to PetPooja outlets to ensure accurate POS synchronization.
+- Built real-time order monitoring with hub assignment and sync status.
+- Added admin workflows for cancellations, refunds, and operational overrides.
+- Implemented role-based access for operations, support, and management teams.
+- Ensured strict data consistency between the consumer app and admin system.
+
+**Tech Stack:** React, Next.js, Node.js, Express, MongoDB, PetPooja POS, Role-based Authentication
+
+---
+
+### 📋 Task & HR Management System  
+**Task, time tracking, and productivity platform (ClickUp / Zoho-style)**
+
+**Overview**  
+Designed and built a task and time management system focused on accountability, accurate work tracking, and productivity insights for teams.
+
+**Key Contributions**
+- Built project-based task management with ownership and status workflows.
+- Implemented real-time start/stop timers with auto-stop and global timer visibility.
+- Added manual time logging with flexible formats such as `1h 30m` or `2h`.
+- Built task-wise and user-wise timesheets with calendar views.
+- Logged all actions in activity feeds for audit and accountability.
+- Designed role-based permissions for secure task and time management.
+
+**Tech Stack:** Next.js, React, Node.js, Express, MongoDB, NextAuth
+
+---
+
+## 🧠 System Highlights (Architecture Thinking)
+
+- **Location-Driven Architecture**  
+  Orders are validated using live location APIs before checkout to ensure hub-level feasibility.
+
+- **Multi-Hub Routing Logic**  
+  Each order is dynamically assigned to the nearest active hub and corresponding PetPooja outlet.
+
+- **Third-Party POS Integration**  
+  Reliable synchronization with PetPooja, including error handling and retry mechanisms.
+
+- **Operational Safeguards**  
+  Prevented overselling and invalid orders through inventory visibility, hub status checks, and delivery cutoffs.
+
+- **Scalable Data Modeling**  
+  MongoDB schemas are designed to support growth across cities, users, and operational roles.
+
+- **Audit & Accountability**  
+  Centralized activity logs and timesheets provide full traceability across systems.
+
+---
 
 ## 📈 GitHub Stats
 <p align="left">
